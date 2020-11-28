@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.11.9)  28 NOV 2020 17:22
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.11.9)  28 NOV 2020 17:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -442,9 +442,9 @@ LaTeX Info: Redefining \nameref on input line 32.
 Package hyperref Warning: Rerun to get /PageLabels entry.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 43.
+(Font)              <7> on input line 47.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 43.
+(Font)              <5> on input line 47.
 
 Package fontspec Warning: \addfontfeature(s) ignored on line 51; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
@@ -454,7 +454,13 @@ Package fontspec Warning: \addfontfeature(s) ignored on line 51; it cannot be
 (fontspec)                  The requested feature is "LetterSpace=15". 
 
 
-Package fontspec Warning: \addfontfeature(s) ignored on line 57; it cannot be
+Overfull \hbox (109.02751pt too wide) in paragraph at lines 59--62
+[]\TU/lmr/m/n/10 [This University]: https://wisc.edu [This Professor]: https://
+wisc.edu [This Company]: https://github.com/acrlakshman/profileio 
+ []
+
+
+Package fontspec Warning: \addfontfeature(s) ignored on line 66; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
@@ -462,7 +468,12 @@ Package fontspec Warning: \addfontfeature(s) ignored on line 57; it cannot be
 (fontspec)                  The requested feature is "LetterSpace=15". 
 
 
-Package fontspec Warning: \addfontfeature(s) ignored on line 97; it cannot be
+Underfull \hbox (badness 10000) in paragraph at lines 69--74
+
+ []
+
+
+Package fontspec Warning: \addfontfeature(s) ignored on line 78; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
@@ -470,7 +481,15 @@ Package fontspec Warning: \addfontfeature(s) ignored on line 97; it cannot be
 (fontspec)                  The requested feature is "LetterSpace=15". 
 
 
-Package fontspec Warning: \addfontfeature(s) ignored on line 110; it cannot be
+Package fontspec Warning: \addfontfeature(s) ignored on line 94; it cannot be
+(fontspec)                used with a font that wasn't selected by a fontspec
+(fontspec)                command.
+(fontspec)                 
+(fontspec)                 The current font is "\TU/lmr/m/sc/14.4 ".
+(fontspec)                  The requested feature is "LetterSpace=15". 
+
+
+Package fontspec Warning: \addfontfeature(s) ignored on line 107; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
@@ -479,6 +498,14 @@ Package fontspec Warning: \addfontfeature(s) ignored on line 110; it cannot be
 
 
 Package fontspec Warning: \addfontfeature(s) ignored on line 121; it cannot be
+(fontspec)                used with a font that wasn't selected by a fontspec
+(fontspec)                command.
+(fontspec)                 
+(fontspec)                 The current font is "\TU/lmr/m/sc/14.4 ".
+(fontspec)                  The requested feature is "LetterSpace=15". 
+
+
+Package fontspec Warning: \addfontfeature(s) ignored on line 132; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
@@ -499,67 +526,21 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 
 ]
 
-Package fontspec Warning: \addfontfeature(s) ignored on line 142; it cannot be
+Package fontspec Warning: \addfontfeature(s) ignored on line 157; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
 (fontspec)                 The current font is "\TU/lmr/m/sc/14.4 ".
 (fontspec)                  The requested feature is "LetterSpace=15". 
 
-
-Package fontspec Warning: \addfontfeature(s) ignored on line 158; it cannot be
-(fontspec)                used with a font that wasn't selected by a fontspec
-(fontspec)                command.
-(fontspec)                 
-(fontspec)                 The current font is "\TU/lmr/m/sc/14.4 ".
-(fontspec)                  The requested feature is "LetterSpace=15". 
-
-
-Package fontspec Warning: \addfontfeature(s) ignored on line 194; it cannot be
-(fontspec)                used with a font that wasn't selected by a fontspec
-(fontspec)                command.
-(fontspec)                 
-(fontspec)                 The current font is "\TU/lmr/m/sc/14.4 ".
-(fontspec)                  The requested feature is "LetterSpace=15". 
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 197--202
-
- []
-
-
-Package fontspec Warning: \addfontfeature(s) ignored on line 206; it cannot be
-(fontspec)                used with a font that wasn't selected by a fontspec
-(fontspec)                command.
-(fontspec)                 
-(fontspec)                 The current font is "\TU/lmr/m/sc/14.4 ".
-(fontspec)                  The requested feature is "LetterSpace=15". 
-
-[2]
-
-Package fontspec Warning: \addfontfeature(s) ignored on line 223; it cannot be
-(fontspec)                used with a font that wasn't selected by a fontspec
-(fontspec)                command.
-(fontspec)                 
-(fontspec)                 The current font is "\TU/lmr/m/sc/14.4 ".
-(fontspec)                  The requested feature is "LetterSpace=15". 
-
-
-Package fontspec Warning: \addfontfeature(s) ignored on line 236; it cannot be
-(fontspec)                used with a font that wasn't selected by a fontspec
-(fontspec)                command.
-(fontspec)                 
-(fontspec)                 The current font is "\TU/lmr/m/sc/14.4 ".
-(fontspec)                  The requested feature is "LetterSpace=15". 
-
-[3] ) 
+[2] ) 
 Here is how much of TeX's memory you used:
- 11265 strings out of 477401
- 215060 string characters out of 5836922
- 565644 words of memory out of 5000000
- 30689 multiletter control sequences out of 15000+600000
+ 11264 strings out of 477401
+ 215043 string characters out of 5836922
+ 561644 words of memory out of 5000000
+ 30688 multiletter control sequences out of 15000+600000
  535544 words of font info for 42 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 78i,11n,86p,365b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 78i,11n,86p,249b,362s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.xdv (3 pages, 43028 bytes).
+Output written on resume.xdv (2 pages, 20356 bytes).
