@@ -5,12 +5,20 @@ config:
   theme:
     value: basic
     render: true
+    meta:
+      # below keys are used by resume parser but not by web parser
+      showPageNumbers: true
+      hideSectionLines: false
+      pantherHeaderNameFontSize: 45
+      pantherHeaderColumnOneWidth: 0.6
+      pantherHeaderColumnTwoWidth: 0.4
   analytics:
     ga:
       trackingId: ""
       enable: false
   meta:
     showResumeLink: true
+    # below keys are used by web parser but not by resume parser
     resume: resume.pdf # path (relative to _profile/files/) for user submitted resume
 basics:
   name:
@@ -84,7 +92,7 @@ work:
             detail: Developing real gas combustion solver based on NGA for simulating sCO2 oxy-combustion
       render: true
     - value:
-        name: University of Wisconsin
+        name: Texas A&M
         location: Madison, WI
         brief: ""
         position: Research Assistant  
@@ -96,7 +104,7 @@ work:
           - detail: Evaluated surface-film models available in OpenFOAM and compared it by implementing new models in LES dynamic structure framework 
           - brief: "" #Bold
             detail: Developing
-      render: true    
+      render: true
 education:
   label: Education
   rank: 1
@@ -113,7 +121,7 @@ education:
           - AERO-641 #Later
       render: true
     - value:
-        institution: University of Wisconsin-Madison
+        institution: Texas A&M
         url: https://wisc.edu
         major: Mechanical Engineering
         minor: ''
