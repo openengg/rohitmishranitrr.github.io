@@ -1,4 +1,4 @@
-## [Degassing](https://rohitmishranitrr.github.io/degassing)
+## [ML for flamelet tables](https://rohitmishranitrr.github.io/MLcombustion)
 
 * Highlights:
   * Created 4D flamelet tables to train the ML algorithm
@@ -7,5 +7,5 @@
   * Future work will involve creating 5D tables with pressure being a variable
   
   ---
-## Results
-![K-Means Clustering](MLflamelet.PNG)
+  ## Results
+   ![K-Means Clustering](MLflamelet.PNG)
