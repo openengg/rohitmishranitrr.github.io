@@ -88,6 +88,18 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 INPUT extractbb --version
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3kernel/expl3.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
@@ -327,6 +339,10 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/pd1enc.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/pd1enc.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/pd1enc.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/intcalc/intcalc.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/intcalc/intcalc.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/intcalc/intcalc.sty
@@ -351,6 +367,10 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/puenc.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/url/url.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/url/url.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/url/url.sty
@@ -409,10 +429,6 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hxetex.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hxetex.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hxetex.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hxetex.def
-INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/puenc.def
-INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/puenc.def
-INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/puenc.def
-INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/puenc.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/stringenc/stringenc.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/stringenc/stringenc.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/stringenc/stringenc.sty
@@ -526,10 +542,4 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-INPUT /opt/texlive/texdir/texmf-dist/tex/generic/stringenc/se-ascii-print.def
-INPUT /opt/texlive/texdir/texmf-dist/tex/generic/stringenc/se-ascii-print.def
-INPUT /opt/texlive/texdir/texmf-dist/tex/generic/stringenc/se-ascii-print.def
-INPUT /opt/texlive/texdir/texmf-dist/tex/generic/stringenc/se-ascii-print.def
-INPUT /opt/texlive/texdir/texmf-dist/tex/generic/stringenc/se-ascii-print.def
-INPUT /opt/texlive/texdir/texmf-dist/tex/generic/stringenc/se-ascii-print.def
 OUTPUT resume.xdv
