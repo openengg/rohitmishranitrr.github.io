@@ -58,7 +58,7 @@ basics:
       render: true
     - value: # if username is provided but not url, then we generate the url.
         network: github
-        username: rohitmishranitrr
+        username: openengg1
       render: true
     - value:
         network: linkedin
@@ -91,6 +91,20 @@ work:
           - brief: "" #Bold
             detail: Developing real gas combustion solver based on NGA for simulating sCO2 oxy-combustion
       render: true
+    - value:
+        name: Argonne National Laboratory
+        location: Chicago, IL
+        brief: ""
+        position: Research Aide  
+        url: "anl.gov"
+        startDate: "01-2022" # string
+        endDate: "05-2022" # string
+        active: true
+        highlights:
+          - detail:  Benchmarked HRIC and PLIC VoF simulations in CONVERGE (CFD tool) and created gold standard spray data. Implemented surface compression UDF for HRIC 
+          - brief: "" #Bold
+            detail: Implemented and tested three widely used surface film models. The surface film models were implemented with an in-house LES dynamic structure turbulence tuned for spray breakup and atomization. 
+      render: true      
     - value:
         name: University of Wisconsin
         location: Madison, WI
@@ -186,7 +200,7 @@ projects:
       render: true
     - value:
         name: Unsupervised clustering Machine learning for flamelet tables
-        description: "Implemented unsupervised clustering (K-Means Clustering) as a gating network for MoE framework for learning flamelet tables"
+        description: "Implemented unsupervised clustering (Gaussian Mixture Model) as a gating network for learning flamelet tables. Created a new recursive unsupervised clustering framework"
         team: "with Dr. Dorrin Jarrahbashi" # [Lakshman Anumolu](//lakshmananumolu.com)_" 
         note: ""
         thumbnail: MLflamelet.PNG #Later
@@ -267,11 +281,11 @@ awards:
   rank: 11
   list:
     - value:
-        title: Marshal award
-        date: May 2014
-        awarder: ILASS
-        summary: Best paper for numerical work
-      render: false
+        title: Pioneer National Resources Fellowship
+        date: 2021-2022
+        awarder: Pioneer National Resources
+        summary: In recognition of academic-research achievement and leadership skills
+      render: true
 publications:
   # Format follows: http://web.mit.edu/rsi/www/pdfs/bibtex-format.pdf
   label: Publications
