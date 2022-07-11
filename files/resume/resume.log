@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.7.11)  11 JUL 2022 00:53
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.7.11)  11 JUL 2022 02:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -511,21 +511,21 @@ LaTeX Font Warning: Font shape `TU/HelveticaNeueLight(1)/m/sc' undefined
 51.
 
 
-Overfull \hbox (119.43935pt too wide) in paragraph at lines 63--66
+Overfull \hbox (119.43935pt too wide) in paragraph at lines 64--67
 []\TU/HelveticaNeueLight(0)/m/sc/10 [Texas A&M University]: https://www.tamu.ed
 u/ [Dr. Dorrin Jarrahbashi]: https://engineering.tamu.edu/mechanical/profiles/j
 arrahbashi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--79
+Underfull \hbox (badness 10000) in paragraph at lines 75--80
 
  []
 
 LaTeX Font Info:    Font shape `TU/HelveticaNeueLight(0)/m/sl' in size <10> not
  available
 (Font)              Font shape `TU/HelveticaNeueLight(0)/m/it' tried instead on
- input line 142.
+ input line 143.
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
@@ -553,7 +553,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  11352 strings out of 476179
  230538 string characters out of 5809544
- 587139 words of memory out of 5000000
+ 588139 words of memory out of 5000000
  31981 multiletter control sequences out of 15000+600000
  469867 words of font info for 60 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
