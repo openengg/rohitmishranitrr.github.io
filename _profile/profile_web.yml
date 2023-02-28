@@ -387,7 +387,7 @@ awards:
   list:
     - value:
         title: Pioneer National Resources Fellowship
-        date: 2021-2022
+        date: 2021-2022, 2022-2023
         awarder: Pioneer National Resources
         summary: In recognition of academic and research achievement and leadership skills
       render: true
@@ -397,6 +397,22 @@ publications:
   rank: 4
   maxItemsToRender: 5 # If this is not provided, it defaults to 5 (src/config.ts)
   list:
+    - value:
+        type: article #Book, in conference, in proceedings, thesis
+        author: "**Rohit Mishra**, Aaron Nelson, Dorrin Jarrahbashi"
+        title: "Adaptive global pathway selection using artificial neural networks: A-priori study"
+        journal: Combustion and Flame, Elsevier
+        volume: 0
+        year: 2022
+        number: 0
+        pages: ''
+        thumbnail: CNF1.png
+        # If webPage is not provided, then url will be linked in the homepage for this project
+        url: 'https://www.sciencedirect.com/science/article/pii/S0010218022002942?dgcid=coauthor' # add later
+        # webPage:
+        #   slug: levelset-phasechange
+        #   detail: publications/levelset-phasechange.md
+      render: true
     - value:
         type: article #Book, in conference, in proceedings, thesis
         author: "**Rohit Mishra**, Aaron Nelson, Dorrin Jarrahbashi"
@@ -471,7 +487,7 @@ gallery:
         caption:
           title: Air and vapor bubbles in a diesel injector nozzle
           description: "This picture shows the simulation results for internal nozzle with blue representing air bubbles and red shows the vapor bubbles simultaneously forming in regions of low pressure"
-      render: true
+      render: false
     - value:
         type: image
         src: scene_templates.png
