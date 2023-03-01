@@ -399,9 +399,9 @@ publications:
   list:
     - value:
         type: article #Book, in conference, in proceedings, thesis
-        author: "**Rohit Mishra**, Aaron Nelson, Dorrin Jarrahbashi"
-        title: "Adaptive global pathway selection using artificial neural networks: A-priori study"
-        journal: Combustion and Flame, Elsevier
+        author: "Shrabanti Roy, **Rohit Mishra**, Dorrin Jarrahbashi, Omid Askari"
+        title: "Reduced ethanol skeleton mechanism for multi-dimensional engine simulation"
+        journal: Journal of Energy Institute, Elsevier
         volume: 0
         year: 2022
         number: 0
