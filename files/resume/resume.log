@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.7.14)  14 JUL 2022 12:43
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.1)  1 MAR 2023 00:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -552,7 +552,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  11352 strings out of 476179
- 230538 string characters out of 5809544
+ 230538 string characters out of 5809545
  588139 words of memory out of 5000000
  31981 multiletter control sequences out of 15000+600000
  469867 words of font info for 60 fonts, out of 8000000 for 9000
