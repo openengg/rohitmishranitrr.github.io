@@ -399,16 +399,32 @@ publications:
   list:
     - value:
         type: article #Book, in conference, in proceedings, thesis
+        author: "**Rohit Mishra**, Sarvesh Mayivahanan, Dorrin Jarrahbashi"
+        title: "Hybrid Unsupervised Cluster-wise Regression Approach for Representing the Flamelet Tables"
+        journal: Energy And Fuels, Elsevier
+        volume: 0
+        year: 2023
+        number: 0
+        pages: ''
+        thumbnail: hybThumb.PNG
+        # If webPage is not provided, then url will be linked in the homepage for this project
+        url: 'https://pubs.acs.org/doi/full/10.1021/acs.energyfuels.2c03766' # add later
+        # webPage:
+        #   slug: levelset-phasechange
+        #   detail: publications/levelset-phasechange.md
+      render: true
+    - value:
+        type: article #Book, in conference, in proceedings, thesis
         author: "Shrabanti Roy, **Rohit Mishra**, Dorrin Jarrahbashi, Omid Askari"
         title: "Reduced ethanol skeleton mechanism for multi-dimensional engine simulation"
         journal: Journal of Energy Institute, Elsevier
         volume: 0
-        year: 2022
+        year: 2023
         number: 0
         pages: ''
         thumbnail: ethanolThumb.PNG
         # If webPage is not provided, then url will be linked in the homepage for this project
-        url: 'https://www.sciencedirect.com/science/article/pii/S0010218022002942?dgcid=coauthor' # add later
+        url: 'https://www.sciencedirect.com/science/article/abs/pii/S1743967122001866' # add later
         # webPage:
         #   slug: levelset-phasechange
         #   detail: publications/levelset-phasechange.md
