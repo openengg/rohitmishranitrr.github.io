@@ -406,7 +406,7 @@ publications:
         year: 2023
         number: 0
         pages: ''
-        thumbnail: hybThumb.PNG
+        thumbnail: hybThumb.jpeg
         # If webPage is not provided, then url will be linked in the homepage for this project
         url: 'https://pubs.acs.org/doi/full/10.1021/acs.energyfuels.2c03766' # add later
         # webPage:
