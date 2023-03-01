@@ -406,7 +406,7 @@ publications:
         year: 2022
         number: 0
         pages: ''
-        thumbnail: CNF1.png
+        thumbnail: ethanolThumb.PNG
         # If webPage is not provided, then url will be linked in the homepage for this project
         url: 'https://www.sciencedirect.com/science/article/pii/S0010218022002942?dgcid=coauthor' # add later
         # webPage:
