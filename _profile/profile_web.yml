@@ -395,7 +395,7 @@ publications:
   # Format follows: http://web.mit.edu/rsi/www/pdfs/bibtex-format.pdf
   label: Publications
   rank: 4
-  maxItemsToRender: 6 # If this is not provided, it defaults to 5 (src/config.ts)
+  maxItemsToRender: 7 # If this is not provided, it defaults to 5 (src/config.ts)
   list:
     - value:
           type: article #Book, in conference, in proceedings, thesis
