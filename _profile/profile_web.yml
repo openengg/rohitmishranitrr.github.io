@@ -398,6 +398,22 @@ publications:
   maxItemsToRender: 6 # If this is not provided, it defaults to 5 (src/config.ts)
   list:
     - value:
+          type: article #Book, in conference, in proceedings, thesis
+          author: "Prabir Daripa, **Rohit Mishra**"
+          title: "Modeling shear thinning polymer flooding using a dynamic viscosity model"
+          journal: Physics of Fluids, AIP
+          volume: 0
+          year: 2023
+          number: 0
+          pages: ''
+          thumbnail: hybThumb.jpeg
+          # If webPage is not provided, then url will be linked in the homepage for this project
+          url: 'https://pubs.aip.org/aip/pof/article/35/4/046606/2887188/Modeling-shear-thinning-polymer-flooding-using-a' # add later
+          # webPage:
+          #   slug: levelset-phasechange
+          #   detail: publications/levelset-phasechange.md
+        render: true
+    - value:
         type: article #Book, in conference, in proceedings, thesis
         author: "**Rohit Mishra**, Sarvesh Mayivahanan, Dorrin Jarrahbashi"
         title: "Hybrid Unsupervised Cluster-wise Regression Approach for Representing the Flamelet Tables"
