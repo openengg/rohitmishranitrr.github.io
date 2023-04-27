@@ -406,7 +406,7 @@ publications:
           year: 2023
           number: 0
           pages: ''
-          thumbnail: hybThumb.jpeg
+          thumbnail: EOR.PNG
           # If webPage is not provided, then url will be linked in the homepage for this project
           url: 'https://pubs.aip.org/aip/pof/article/35/4/046606/2887188/Modeling-shear-thinning-polymer-flooding-using-a' # add later
           # webPage:
